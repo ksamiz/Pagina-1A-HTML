@@ -1,0 +1,27 @@
+body {
+    color: rgb(255, 255, 255);
+    background:radial-gradient(black)
+}
+
+body {
+display: block;
+margin: 8px;
+
+}
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border: solid 2px rgb(99, 99, 99);
+}
+
+header {
+    border-bottom: solid 2px rgb(134, 0, 7);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(134, 0, 7);
+}
